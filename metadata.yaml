@@ -1,0 +1,43 @@
+_repo: The-Putnam-Tradition_26743
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling
+    - Schelling, George Luther
+    - Schelling, George L.
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dorman, Sonya
+    alias: Hess, Sonya Dorman
+    birthdate: 1924
+    deathdate: 2005
+    gutenberg_agent_id: '32217'
+    url: http://www.gutenberg.org/2009/agents/32217
+    wikipedia: http://en.wikipedia.org/wiki/Sonya_Dorman
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2008-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Family -- Fiction'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcsh 'Short stories'
+title: The Putnam Tradition
+url: http://www.gutenberg.org/ebooks/26743
