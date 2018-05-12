@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32217
     wikipedia: http://en.wikipedia.org/wiki/Sonya_Dorman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26743#The-Putnam-Tradition
 gutenberg_bookshelf:
 - Science Fiction
 - Science Fiction by Women
